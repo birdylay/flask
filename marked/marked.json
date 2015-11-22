@@ -1,0 +1,30 @@
+[
+ 	{
+ 		"id": 1, 
+ 		"studentName": "Daly, Colin",
+ 		"average": "100%",
+ 		"assignmentOne": "100%",
+ 		"assignmentTwo": "100%"
+ 	},
+	{	
+		"id": 2, 
+		"studentName": "Bistawrous, Angelo",
+		"average": "100%",
+		"assignmentOne": "100%",
+		"assignmentTwo": "100%"
+	},
+	{	
+		"id": 3, 
+		"studentName": "Santiago, April",
+		"average": "82.5%",
+		"assignmentOne": "90%",
+		"assignmentTwo": "75%"
+	},
+	{	
+		"id": 4, 
+		"studentName": "Chen, Hao Ran",
+		"average": "80%",
+		"assignmentOne": "80%",
+		"assignmentTwo": "80%"
+	}
+]

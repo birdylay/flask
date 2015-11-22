@@ -1,0 +1,22 @@
+<table st-table="rowCollection" class="table table-striped">
+  <thead>
+  <tr>
+    <th>ID</th>
+    <th>Student Name</th>
+    <th>Overall Average</th>
+    <th>Assignment 1</th>
+    <th>Assignment 2</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr ng-repeat="person in rowCollection">
+    <td>{{person.id}}</td>
+    <td>{{person.studentName}}</td>
+    <td>{{person.average}}</td>
+    <td>{{person.assignmentOne}}</td>
+    <td>{{person.assignmentTwo}}</td>
+  </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<p><a href="#/" class="btn btn-primary">Back</a></p>
