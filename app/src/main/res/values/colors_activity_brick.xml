@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_card_text_color">#FFFFFF</color>
+    <color name="main_name_color">#323d3f</color>
+    <color name="name_tag_bg_color">#f2f2f2</color>
+    <color name="bg_color">#e6e6e6</color>
+    <color name="question_title_color">#1a1a1a</color>
+    <color name="answer_bg_color">#00a99d</color>
+    <color name="answer_color">#e6e6e6</color>
+    <color name="test_list_bg">#e6e6e6</color>
+    <color name="dark_text">#1a1a1a</color>
+
+    <color name="test_bg">#6DAEDB</color>
+    <color name="reminders_bg">#2e3192</color>
+    <color name="dates_bg">#c1272d</color>
+    <color name="question_bg">#009245</color>
+    <color name="settings_bg">#3A435E</color>
+    <color name="account_bg">#b33951</color>
+
+    <color name="action_color">#00a99d</color>
+
+
+</resources>
